@@ -1,3 +1,11 @@
+Deployed App: https://todo-list-shamikapawar.vercel.app/
+
+Preview : 
+![todo ss](https://user-images.githubusercontent.com/100352725/155948755-4887ece9-c7a5-4d23-88f5-9ab736acf302.PNG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
